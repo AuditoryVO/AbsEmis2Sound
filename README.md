@@ -1,7 +1,6 @@
 # AbsEmis2Sound
 Auditory analysis of the pre-calculated emission and absorption lines of the Large Early Galaxy Census (LEGA-C) spectra. Data: STScI.
 ![Screen Shot 2023-09-08 at 00 15 43](https://github.com/AuditoryVO/AbsEmis2Sound/assets/144262864/1c5d0ba2-17d5-4557-ac4f-d1c7fcbefc74)
-
 CONTENTS
 
 - Jupyter notebook: AbsEmis2Sound.ipynb

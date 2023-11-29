@@ -8,6 +8,8 @@ CONTENTS
 - CSound/Cabbage file: AbsEmis2Sound.csd
 - Cabbage mask files: Init.png, and Init2.png
 - Sample spectra: Abs.png, and Emis.png
+- LICENSE
+- README
 - requirements.txt
 
 CABBAGE/CSOUND INSTALLATION
